@@ -1,0 +1,27 @@
+{
+  "name": "adventjs-2022",
+  "version": "1.0.0",
+  "description": "Solved challenges of AdventJs 2022 https://adventjs.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microbode/adventJS-2022.git"
+  },
+  "author": "David Vázquez Alonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microbode/adventJS-2022/issues"
+  },
+  "homepage": "https://github.com/microbode/adventJS-2022#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "esm": "^3.2.25",
+    "prettier": "^2.8.0"
+  }
+}
