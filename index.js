@@ -1,1 +1,3 @@
-console.log("Init project.");
+import run from "./01.js";
+
+run();
