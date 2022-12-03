@@ -1,3 +1,3 @@
-import run from "./01.js";
+import run from "./02.js";
 
 run();
